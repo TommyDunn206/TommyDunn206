@@ -12,7 +12,7 @@
 
 ✉️ &nbsp;You can shoot me an email at **[tommyd206@gmail.com](mailto:tommyd206@gmail.com)**—I'll try to respond as soon as I can.
 
-📄 &nbsp;Check out my **[Résumé](https://tommydunn206.github.io)** for more details. I'm open to feedback and suggestions!
+📄 &nbsp;Check out my **[Résumé](https://tommydunn206.github.io/resume/)** for more details. I'm open to feedback and suggestions!
 
 &nbsp;
 
@@ -87,7 +87,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://tommydunn206.github.io/resume/](https://tommydunn206.github.io/resume/)"><img src="https://img.shields.io/badge/-resume-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="[https://linkedin.com/in/tommy-dunn-a13266b8](https://www.linkedin.com/in/tommy-dunn-a13266b8/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://tommydunn206.github.io/resume/"><img src="https://img.shields.io/badge/-resume-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tommy-dunn-a13266b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tommyd206@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
